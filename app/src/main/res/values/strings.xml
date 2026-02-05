@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Part2Dump</string>
+    <string name="title">Dump de partição para /sdcard</string>
+    <string name="dump">Dump selecionado</string>
+    <string name="status_idle">Selecione uma partição e toque em Dump.</string>
+    <string name="menu_refresh">Atualizar</string>
+    <string name="menu_about">Sobre</string>
+    <string name="about_title">Sobre</string>
+    <string name="about_message">Part2Dump - dump de partições para /sdcard com root.\nCréditos: spacexjr.</string>
+    <string name="about_image_desc">Logo Space</string>
+</resources>

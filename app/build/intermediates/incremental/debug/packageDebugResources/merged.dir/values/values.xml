@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="purple_500">#3F51B5</color>
+    <color name="purple_700">#303F9F</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about_image_desc">Logo Space</string>
+    <string name="about_message">Part2Dump - dump de partições para /sdcard com root.\nCréditos: spacexjr.</string>
+    <string name="about_title">Sobre</string>
+    <string name="app_name">Part2Dump</string>
+    <string name="dump">Dump selecionado</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_refresh">Atualizar</string>
+    <string name="status_idle">Selecione uma partição e toque em Dump.</string>
+    <string name="title">Dump de partição para /sdcard</string>
+    <style name="Theme.Part2sd" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+    </style>
+</resources>

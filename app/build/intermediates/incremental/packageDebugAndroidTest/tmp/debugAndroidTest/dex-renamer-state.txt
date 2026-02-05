@@ -1,0 +1,4 @@
+#Thu Feb 05 15:09:09 BRT 2026
+base.0=/home/Re/Área de trabalho/projetos/kotlin/part2sd/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

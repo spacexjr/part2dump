@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable spacexjr
+id aboutImage
+id aboutText
+id action_about
+id action_refresh
+id dumpButton
+id partitionsCard
+id partitionsList
+id progressBar
+id statusText
+id titleText
+id topAppBar
+layout activity_main
+layout dialog_about
+menu main_menu
+mipmap ic_launcher
+string about_image_desc
+string about_message
+string about_title
+string app_name
+string dump
+string menu_about
+string menu_refresh
+string status_idle
+string title
+style Theme.Part2sd
