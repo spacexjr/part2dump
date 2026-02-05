@@ -13,6 +13,7 @@ Aplicativo Android (Kotlin) para fazer dump de partições do dispositivo para `
 - Dispositivo Android **rootado** (obrigatório).
 - Acesso ao comando `su` e `dd` no dispositivo.
 - Espaço livre suficiente no `/sdcard/Backup`.
+- caso usar Ksunxt, ksu.. etc permita no manager primeiro antes de abrir o Part2Dump.
 
 ## Como buildar
 
